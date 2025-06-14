@@ -1,0 +1,1 @@
+C:\Users\ASCE\source\repos\Cosmicbills_TestAPP\cosmicbills_testapp.client\obj\Debug\cosmicbills_testapp.client.esproj.CoreCompileInputs.cache

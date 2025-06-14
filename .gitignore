@@ -1,0 +1,38 @@
+# Ignore everything
+*.vsidx
+*.dll
+
+# But keep these important file types
+!*.ts
+!*.html
+!*.css
+!*.scss
+!*.json
+
+# Keep Angular config and essential files
+!angular.json
+!package.json
+!tsconfig.json
+!tsconfig.*.json
+!karma.conf.js
+!README.md
+
+# Keep src folder and files inside it
+!src/
+!src/**/*
+
+# Exclude build output and installed packages
+node_modules/
+dist/
+build/
+
+# IDE/Editor files
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# Environment files (you may include if needed)
+src/environments/*
+!src/environments/environment.ts
+!src/environments/environment.prod.ts

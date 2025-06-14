@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\accounting\\xero\\xeroproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\accounting\\xero\\xeroproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|solutionrelative:cosmicbills_testapp.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\controllers\\xerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\controllers\\xerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|solutionrelative:cosmicbills_testapp.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.client\\src\\app\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|solutionrelative:cosmicbills_testapp.client\\src\\app\\api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|solutionrelative:cosmicbills_testapp.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.client\\src\\app\\xeroentities.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|solutionrelative:cosmicbills_testapp.client\\src\\app\\xeroentities.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\accounting\\xero\\dtos\\coadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\accounting\\xero\\dtos\\coadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\accounting\\xero\\dtos\\customerdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\accounting\\xero\\dtos\\customerdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\accounting\\xero\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\accounting\\xero\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\accounting\\xero\\models\\xeroconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\accounting\\xero\\models\\xeroconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.client\\src\\app\\xeroauthtoken.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|solutionrelative:cosmicbills_testapp.client\\src\\app\\xeroauthtoken.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|solutionrelative:cosmicbills_testapp.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\accounting\\xero\\models\\response\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\accounting\\xero\\models\\response\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|solutionrelative:cosmicbills_testapp.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|solutionrelative:cosmicbills_testapp.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\cosmicbills_testapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\cosmicbills_testapp.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|solutionrelative:cosmicbills_testapp.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7CE7097-3249-4BAE-B130-0E96F82F8406}|cosmicbills_testapp.client\\cosmicbills_testapp.client.esproj|solutionrelative:cosmicbills_testapp.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\cosmicbills_testapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\cosmicbills_testapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\cosmicbills_testapp.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\cosmicbills_testapp.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|c:\\users\\asce\\source\\repos\\cosmicbills_testapp\\cosmicbills_testapp.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606B3CC7-7733-470C-B13A-92FA11008B9F}|Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj|solutionrelative:cosmicbills_testapp.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XeroProxy.cs",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\XeroProxy.cs",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\XeroProxy.cs",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\XeroProxy.cs",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\XeroProxy.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:44:28.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "api.service.ts",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\api.service.ts",
+              "RelativeDocumentMoniker": "cosmicbills_testapp.client\\src\\app\\api.service.ts",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\api.service.ts",
+              "RelativeToolTip": "cosmicbills_testapp.client\\src\\app\\api.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-13T15:56:28.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "cosmicbills_testapp.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "cosmicbills_testapp.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-13T13:56:35.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\CustomerDetailDto.cs",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\CustomerDetailDto.cs",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\CustomerDetailDto.cs",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\CustomerDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:48:26.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XeroEntities.ts",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\XeroEntities.ts",
+              "RelativeDocumentMoniker": "cosmicbills_testapp.client\\src\\app\\XeroEntities.ts",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\XeroEntities.ts",
+              "RelativeToolTip": "cosmicbills_testapp.client\\src\\app\\XeroEntities.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-14T00:42:07.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "cosmicbills_testapp.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "cosmicbills_testapp.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-13T13:57:28.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XeroAuthToken.ts",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\XeroAuthToken.ts",
+              "RelativeDocumentMoniker": "cosmicbills_testapp.client\\src\\app\\XeroAuthToken.ts",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\XeroAuthToken.ts",
+              "RelativeToolTip": "cosmicbills_testapp.client\\src\\app\\XeroAuthToken.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-13T18:09:11.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "cosmicbills_testapp.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "cosmicbills_testapp.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-13T13:57:23.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Connections.cs",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Models\\Response\\Connections.cs",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Models\\Response\\Connections.cs",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Models\\Response\\Connections.cs",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Models\\Response\\Connections.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:32:14.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupplierDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\SupplierDto.cs",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\SupplierDto.cs",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\SupplierDto.cs",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\SupplierDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:48:38.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\appsettings.json",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T13:37:13.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XeroConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Models\\XeroConfig.cs",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Models\\XeroConfig.cs",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Models\\XeroConfig.cs",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Models\\XeroConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:34:40.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XeroController.cs",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Controllers\\XeroController.cs",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Controllers\\XeroController.cs",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Controllers\\XeroController.cs",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Controllers\\XeroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:26:27.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "COADto.cs",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\COADto.cs",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\COADto.cs",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\COADto.cs",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Accounting\\Xero\\Dtos\\COADto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T13:23:21.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "cosmicbills_testapp.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "cosmicbills_testapp.client\\src\\app\\app.component.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-13T13:56:32.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Program.cs",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:15:22.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cosmicbills_TestAPP.Server.http",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.http",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.http",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.http",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-13T14:15:20.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "cosmicbills_testapp.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "cosmicbills_testapp.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-13T13:57:33.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "cosmicbills_testapp.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "cosmicbills_testapp.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-13T15:19:49.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T15:19:09.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\index.html",
+              "RelativeDocumentMoniker": "cosmicbills_testapp.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\index.html",
+              "RelativeToolTip": "cosmicbills_testapp.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-13T14:59:48.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:15:18.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cosmicbills_TestAPP.Server",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T14:27:33.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "cosmicbills_testapp.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\cosmicbills_testapp.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "cosmicbills_testapp.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-06-13T13:57:28.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cosmicbills_TestAPP.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj",
+              "RelativeDocumentMoniker": "Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj",
+              "ToolTip": "C:\\Users\\ASCE\\source\\repos\\Cosmicbills_TestAPP\\Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj",
+              "RelativeToolTip": "Cosmicbills_TestAPP.Server\\Cosmicbills_TestAPP.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T10:44:17.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

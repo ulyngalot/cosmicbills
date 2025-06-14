@@ -1,0 +1,6 @@
+@Cosmicbills_TestAPP.Server_HostAddress = http://localhost:5186
+
+GET {{Cosmicbills_TestAPP.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

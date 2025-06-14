@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cosmicbills_TestAPP.Server.props" />
+</Project>
