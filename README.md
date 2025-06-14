@@ -1,4 +1,6 @@
-NOTE: Refresh token is not implemented and NO refactor of code yet.
+NOTE:
+=====
+Refresh token is not implemented and NO refactor of code yet.
 
 XERO DEMO ACCOUNT
 =================
